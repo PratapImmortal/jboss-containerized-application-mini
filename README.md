@@ -1,0 +1,1 @@
+# jboss-containerized-application-mini
